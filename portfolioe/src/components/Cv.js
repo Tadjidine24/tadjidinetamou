@@ -38,7 +38,7 @@ const Cv = () => {
                         Download My Cv Just Here
                         </Box>
 
-                    <IconButton button href={pdf} download="cv Tadjidine Tamou.pdf">
+                    <IconButton button href={pdf} download="Tadjidine_Tamou.pdf">
                         <CloudDownloadIcon style={{ color: "tomato" }}  className="taille" />
 
                     </IconButton>
